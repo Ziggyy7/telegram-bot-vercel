@@ -1,3 +1,6 @@
+def handler(request):
+    return "ok"
+
 import os
 import requests
 
